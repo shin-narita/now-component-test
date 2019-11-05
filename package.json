@@ -1,0 +1,7 @@
+{
+  "name": "now-component-test",
+  "version": "1.0.0",
+  "privete": true,
+  "repository": "git@github.com:shin-narita/now-component-test.git",
+  "license": "MIT"
+}
