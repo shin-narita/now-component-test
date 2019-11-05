@@ -1,12 +1,12 @@
 // import Link from 'next/link';
 
-import Header from '../components/header.jsx';
+import Header from '../components/header';
 
 const Index = () => {
   return (
     <div>
       <Header>home</Header>
-      <div>home page</div>
+      <div>top page</div>
     </div>
   );
 }

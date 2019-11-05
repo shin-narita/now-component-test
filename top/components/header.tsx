@@ -1,3 +1,5 @@
+// export default rootComponents.Header;
+
 const Header = (props) => {
   return (
     <header>

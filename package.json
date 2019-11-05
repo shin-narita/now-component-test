@@ -3,5 +3,11 @@
   "version": "1.0.0",
   "privete": true,
   "repository": "git@github.com:shin-narita/now-component-test.git",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.11.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.11"
+  }
 }
